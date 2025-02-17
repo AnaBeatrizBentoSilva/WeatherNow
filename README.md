@@ -8,7 +8,7 @@ Criar uma aplicação funcional de monitoramento do clima, implementando:
 - **Exibição Dinâmica**: Mostra a temperatura e o ícone correspondente ao clima.
 - **JavaScript/TypeScript**: Manipulação de dados e interatividade da aplicação.
 
-## 🔥 Conceitos Abordados
+## 🔒 Conceitos Abordados
 - **Requisições HTTP**: Uso do `fetch` para consumir dados da API.
 - **Manipulação de JSON**: Extração e exibição de informações como temperatura e clima.
 - **Tratamento de Erros**: Validação da entrada do usuário e tratamento de falhas na requisição.
