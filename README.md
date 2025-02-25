@@ -25,8 +25,8 @@ Criar uma aplicação funcional de monitoramento do clima, implementando:
 ├── node_modules/
 ├── ts/
 │   └── index.ts
+├── README.md
 ├── index.html
 ├── package-lock.json
 ├── package.json
-├── README.md
 └── tsconfig.json
